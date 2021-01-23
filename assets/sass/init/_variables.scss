@@ -87,10 +87,10 @@ $menlo:           Menlo, 'Ubuntu Mono', 'DejaVu Sans Mono', 'Courier New', Couri
 // typeface() mixin.
 $typefaces: (
   body: (
-    font-family: $garamond,
+    font-family: $system-ui,
   ),
   headings: (
-    font-family: $futura,
+    font-family: $system-ui,
   ),
   monospace: (
     font-family: $menlo,
