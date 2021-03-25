@@ -1,3 +1,11 @@
 // sass-lint:disable no-css-comments, no-color-hex, no-color-literals
 
 // Site custom styles
+
+
+blockquote {
+    padding: 0 1em;
+    color: #6a737d;
+    border-left: .25em solid #dfe2e5;
+    margin: 0
+}
